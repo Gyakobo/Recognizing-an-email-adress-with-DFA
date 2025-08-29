@@ -19,8 +19,8 @@ The following example is meant to demonstrate how a Deterministic Finite Automat
 
     * $S_{1} = \psi \psi^*$ (numbers of at least length 1)
     * $S_{2} = \pi \psi \psi^*$ (strings of $S_{1}$ beginning with a dot)
-    * $S_{3}$ = {.gov} (valid enging for email adress)
-    * $S_{4}$ = {.gr} (valid enging for email adress)
+    * $S_{3}$ = {.gov} (valid ending for email adress)
+    * $S_{4}$ = {.gr} (valid ending for email adress)
 
 * Delving more into discrete math, language 'L' is a regular language and as later on proved there exists a DFA which recognizes said regular language. 
 
